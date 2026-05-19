@@ -1,1 +1,1 @@
-# StudentManagementSystem
+# Academia Connect -Student Management System 
